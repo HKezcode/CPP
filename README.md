@@ -61,3 +61,12 @@ Reviewers:
 - [Konstantin Komarov](https://github.com/MolinRE),
 - [Sergey Skliar](https://github.com/SergeiSkliar)
 - Community :)
+
+
+site which help me to learn CPP with homeword and videos absolutely free
+
+https://www.learncpp.com/
+https://metanit.com/cpp/
+https://ravesli.com/category/zadaniya-po-s/
+and storu one of man
+https://habr.com/ru/amp/publications/497158/
