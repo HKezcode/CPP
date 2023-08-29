@@ -106,6 +106,8 @@ https://teachyourselfcs.com
 
 Junior knowladge list
 Technical Skills:
+
+
 ● Commercial experiencr with C++ from 6 months
 
 ● STL containers and algorithms
