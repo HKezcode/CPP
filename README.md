@@ -107,29 +107,52 @@ https://teachyourselfcs.com
 Junior knowladge list
 Technical Skills:
 ● Commercial experiencr with C++ from 6 months
+
 ● STL containers and algorithms
+
 ● Multi-threading
+
 ● Template metaprogramming
+
 ● BOOST library
+
 ● Unit Testing
+
 ● OOP and design patterns
+
 ● Network transport protocols
+
 ● Git
+
 ● GCC, GDB
+
 ● Linux
+
 ● Computer Science Related Degree
 
+
 Soft skills:
+
 ● Intermediate written and spoken English
+
 ● Take responsibility
+
 ● Be proactive
+
 ● Eager to learn new things
+
 ● Cooperate with others
+
 ● Share knowledge
+
 ● Ability to work without electricity (having power bank, eco-flow, etc.)
 
 As a plus:
+
 ● Shell scripting
+
 ● Cmake
+
 ● FX protocol
+
 ● Financial markets, instruments, trading
